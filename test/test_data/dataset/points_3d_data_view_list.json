@@ -1,0 +1,17 @@
+[
+    {
+        "id": "7f39a40e-d207-47ad-a768-873f946d8056",
+        "name": "stanford-indoor3d-small-train",
+        "viewType": "annotation",
+        "annotationTemplateId": "79f5dd28-7e5a-4331-bd1c-e51eeb40ed3b",
+        "annotationTemplateType": "points-3d",
+        "createAt": 1685416865872
+    },
+    {
+        "id": "fbcd9cbe-2dcc-42b7-9ca2-c1c3f0581027",
+        "name": "stanford-indoor3d-small-train",
+        "viewType": "raw-data",
+        "rawDataType": "points-3d",
+        "createAt": 1685416865869
+    }
+]

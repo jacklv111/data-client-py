@@ -1,0 +1,66 @@
+{
+    "RawDataId": "0010e41e-5c5e-486c-8457-c3c9a804de8c",
+    "AnnotationTemplateId": "d2db565b-3e50-42df-bc89-3be956c3de60",
+    "BoundingBoxList": [
+        {
+            "LabelId": "7093af59-942f-4453-b762-f5b8d079ced7",
+            "BoundingBox2D": {
+                "X": 204,
+                "Y": 323,
+                "Width": 357,
+                "Height": 104
+            },
+            "BoundingBox3D": {
+                "X": 0.69852,
+                "Y": 1.87536,
+                "Z": -0.8875,
+                "XSize": 0.994861,
+                "YSize": 0.497885,
+                "ZSize": 0.31875,
+                "YawX": -0.021122,
+                "YawY": 0.999777,
+                "YawZ": 0
+            }
+        },
+        {
+            "LabelId": "8e94617a-1146-47c0-8ce1-189afed4d82b",
+            "BoundingBox2D": {
+                "X": 467.986,
+                "Y": 307.768,
+                "Width": 93.014,
+                "Height": 83.2321
+            },
+            "BoundingBox3D": {
+                "X": 1.706861,
+                "Y": 3.655845,
+                "Z": -1.03125,
+                "XSize": 0.382323,
+                "YSize": 0.358585,
+                "ZSize": 0.1875,
+                "YawX": -0.69489,
+                "YawY": 0.719116,
+                "YawZ": 0
+            }
+        },
+        {
+            "LabelId": "72885942-e335-46f3-ab3f-398882a40f4a",
+            "BoundingBox2D": {
+                "X": 472,
+                "Y": 257.839,
+                "Width": 86.9005,
+                "Height": 50.1606
+            },
+            "BoundingBox3D": {
+                "X": 2.637838,
+                "Y": 5.116102,
+                "Z": -0.86875,
+                "XSize": 0.628227,
+                "YSize": 0.322773,
+                "ZSize": 0.35,
+                "YawX": -0.05379,
+                "YawY": -0.998552,
+                "YawZ": 0
+            }
+        }
+    ]
+}

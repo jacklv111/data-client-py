@@ -1,0 +1,12 @@
+{
+    "dataViewId": "0f87a257-10ab-4763-b8d4-d70138cb51d3",
+    "annotationTemplateId": "85b8a2b9-762c-4a3d-be53-95744d11f85c",
+    "viewType": "annotation",
+    "dataItems": [
+        {
+            "dataItemId": "0015b66a-9a59-474c-a5e9-4f9f253286fe",
+            "dataName": "795.jpg",
+            "objectKey": "annotation/94156cdf-9ff5-41ad-8137-3d8ebf4ee3e42023-03-14-15:56:49/0015b66a-9a59-474c-a5e9-4f9f253286fe-segmentation-masks"
+        }
+    ]
+}

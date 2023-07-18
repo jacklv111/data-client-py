@@ -1,0 +1,16 @@
+{
+    "dataViewId": "2897d7de-3d1e-446c-92e5-64f7c74d7afa",
+    "viewType": "artifact",
+    "dataItems": [
+        {
+            "dataItemId": "6e489c9e-94d6-4bfd-bdea-74b66516b87f",
+            "dataName": "a.bin",
+            "objectKey": "artifact/a3178583-ea12-428c-8de7-efc0698d921c2023-03-28-16:29:37/6e489c9e-94d6-4bfd-bdea-74b66516b87f-a.bin"
+        },
+        {
+            "dataItemId": "bd4e3746-e94d-473d-9859-5d4adb808974",
+            "dataName": "b.bin",
+            "objectKey": "artifact/d77d198f-a540-4c19-a232-975b5a6db45d2023-03-28-15:49:41/bd4e3746-e94d-473d-9859-5d4adb808974-b.bin"
+        }
+    ]
+}

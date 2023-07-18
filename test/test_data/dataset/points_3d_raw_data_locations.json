@@ -1,0 +1,12 @@
+{
+    "dataViewId": "fbcd9cbe-2dcc-42b7-9ca2-c1c3f0581027",
+    "viewType": "raw-data",
+    "rawDataType": "points-3d",
+    "dataItems": [
+        {
+            "dataItemId": "f724657d-ff3c-471f-9690-1703f759067e",
+            "dataName": "Area_6_pantry_1.bin",
+            "objectKey": "raw-data/bd9f7f6c-836f-4cc8-ab30-8aa54af5775b2023-05-29-22:51:11/f724657d-ff3c-471f-9690-1703f759067e-points-3d"
+        }
+    ]
+}

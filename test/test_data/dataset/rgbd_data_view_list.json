@@ -1,0 +1,17 @@
+[
+    {
+        "id": "04550946-3add-47a2-9011-a329a0c2b6aa",
+        "name": "minisunrgbd-val",
+        "viewType": "annotation",
+        "annotationTemplateId": "d2db565b-3e50-42df-bc89-3be956c3de60",
+        "annotationTemplateType": "rgbd",
+        "createAt": 1677839202445
+    },
+    {
+        "id": "12160eac-179d-4f2a-8055-e79f8ccbba26",
+        "name": "minisunrgbd-val",
+        "viewType": "raw-data",
+        "rawDataType": "rgbd",
+        "createAt": 1677839100308
+    }
+]

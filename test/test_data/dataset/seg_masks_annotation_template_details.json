@@ -1,0 +1,19 @@
+{
+    "id": "85b8a2b9-762c-4a3d-be53-95744d11f85c",
+    "name": "segmentation-pointer",
+    "createAt": 1678346423208,
+    "updateAt": 1678346423208,
+    "type": "segmentation-masks",
+    "labels": [
+        {
+            "id": "7fab80ab-62cf-41bf-a976-3bb1942c70fd",
+            "name": "background",
+            "color": 0
+        },
+        {
+            "id": "33639f94-cf69-4ad0-be18-ae962e541eeb",
+            "name": "pointer",
+            "color": 1
+        }
+    ]
+}

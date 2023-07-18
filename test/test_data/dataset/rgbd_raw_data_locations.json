@@ -1,0 +1,12 @@
+{
+    "dataViewId": "12160eac-179d-4f2a-8055-e79f8ccbba26",
+    "viewType": "raw-data",
+    "rawDataType": "rgbd",
+    "dataItems": [
+        {
+            "dataItemId": "0010e41e-5c5e-486c-8457-c3c9a804de8c",
+            "dataName": "002121",
+            "objectKey": "raw-data/d0742989-7d04-415e-abee-d80b5675b96c2023-03-02-20:31:45/0010e41e-5c5e-486c-8457-c3c9a804de8c-rgbd"
+        }
+    ]
+}

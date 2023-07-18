@@ -1,0 +1,257 @@
+{
+    "dataViewId": "cf11dc76-0193-4694-a02a-aa112050fbec",
+    "viewType": "raw-data",
+    "rawDataType": "image",
+    "dataItems": [
+        {
+            "dataItemId": "02606ea8-32d9-454c-9a94-874ebf2f523a",
+            "dataName": "000000060855.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/02606ea8-32d9-454c-9a94-874ebf2f523a-image"
+        },
+        {
+            "dataItemId": "068ac5d6-e3f0-4c6d-9147-f3554af7b289",
+            "dataName": "000000541291.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/068ac5d6-e3f0-4c6d-9147-f3554af7b289-image"
+        },
+        {
+            "dataItemId": "0757c226-74b8-4da0-88bc-dab68d40a2ac",
+            "dataName": "000000426268.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/0757c226-74b8-4da0-88bc-dab68d40a2ac-image"
+        },
+        {
+            "dataItemId": "0d44b893-bbea-456f-b0e1-94bfbfe9ff1a",
+            "dataName": "000000264335.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/0d44b893-bbea-456f-b0e1-94bfbfe9ff1a-image"
+        },
+        {
+            "dataItemId": "1d400db1-d36c-4fe1-b09a-72be451eac4f",
+            "dataName": "000000471789.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/1d400db1-d36c-4fe1-b09a-72be451eac4f-image"
+        },
+        {
+            "dataItemId": "2420c7d5-bbc6-410a-8b29-5610e51422ce",
+            "dataName": "000000414170.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/2420c7d5-bbc6-410a-8b29-5610e51422ce-image"
+        },
+        {
+            "dataItemId": "28726b54-e3f6-4e58-951f-9e3e905cd823",
+            "dataName": "000000226417.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/28726b54-e3f6-4e58-951f-9e3e905cd823-image"
+        },
+        {
+            "dataItemId": "2b1502a8-d61f-4f6b-ba4a-16826c96794e",
+            "dataName": "000000177065.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/2b1502a8-d61f-4f6b-ba4a-16826c96794e-image"
+        },
+        {
+            "dataItemId": "3308f881-ddf7-46a8-8533-7414e85df94e",
+            "dataName": "000000405972.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/3308f881-ddf7-46a8-8533-7414e85df94e-image"
+        },
+        {
+            "dataItemId": "3a90cbda-2ea1-41bc-957c-f2e0c9204d9e",
+            "dataName": "000000011051.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/3a90cbda-2ea1-41bc-957c-f2e0c9204d9e-image"
+        },
+        {
+            "dataItemId": "3aea1325-6b9c-47af-a96a-2336d24bbeb5",
+            "dataName": "000000318908.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/3aea1325-6b9c-47af-a96a-2336d24bbeb5-image"
+        },
+        {
+            "dataItemId": "3b9b06de-0731-4481-9e43-429c391e2399",
+            "dataName": "000000529568.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/3b9b06de-0731-4481-9e43-429c391e2399-image"
+        },
+        {
+            "dataItemId": "41692d0d-26bd-4cc2-80d9-331ba4af75f0",
+            "dataName": "000000538067.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/41692d0d-26bd-4cc2-80d9-331ba4af75f0-image"
+        },
+        {
+            "dataItemId": "426a3860-edcf-4152-a4b5-6485045111a6",
+            "dataName": "000000084752.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/426a3860-edcf-4152-a4b5-6485045111a6-image"
+        },
+        {
+            "dataItemId": "43bda5f3-df04-4999-9b15-20a04cffc3ea",
+            "dataName": "000000182021.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/43bda5f3-df04-4999-9b15-20a04cffc3ea-image"
+        },
+        {
+            "dataItemId": "4f0a6d00-02ab-4f27-b354-f66823669ab5",
+            "dataName": "000000098018.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/4f0a6d00-02ab-4f27-b354-f66823669ab5-image"
+        },
+        {
+            "dataItemId": "51446810-5129-442f-9876-1e5856e801f0",
+            "dataName": "000000341719.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/51446810-5129-442f-9876-1e5856e801f0-image"
+        },
+        {
+            "dataItemId": "5385aeca-1a3f-406b-947f-44e6420d48bc",
+            "dataName": "000000386457.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/5385aeca-1a3f-406b-947f-44e6420d48bc-image"
+        },
+        {
+            "dataItemId": "594fae77-75ac-4a52-bc08-5e9cf90960e7",
+            "dataName": "000000179487.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/594fae77-75ac-4a52-bc08-5e9cf90960e7-image"
+        },
+        {
+            "dataItemId": "64ec6ff4-ce1c-41ff-ab0e-5d1179419b96",
+            "dataName": "000000253452.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/64ec6ff4-ce1c-41ff-ab0e-5d1179419b96-image"
+        },
+        {
+            "dataItemId": "65a9b2f1-8724-46f3-a90a-7d0a72093117",
+            "dataName": "000000166426.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/65a9b2f1-8724-46f3-a90a-7d0a72093117-image"
+        },
+        {
+            "dataItemId": "6d0f3704-2806-4110-be37-db0c49e3561a",
+            "dataName": "000000119677.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/6d0f3704-2806-4110-be37-db0c49e3561a-image"
+        },
+        {
+            "dataItemId": "73405554-8de9-4e52-a88d-fe48c0ea637c",
+            "dataName": "000000293324.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/73405554-8de9-4e52-a88d-fe48c0ea637c-image"
+        },
+        {
+            "dataItemId": "7765b5bf-1dd4-493d-beef-3a570bd933ce",
+            "dataName": "000000447342.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/7765b5bf-1dd4-493d-beef-3a570bd933ce-image"
+        },
+        {
+            "dataItemId": "7f9b9a8d-5cb7-42cc-a658-3923eecf6dc1",
+            "dataName": "000000274272.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/7f9b9a8d-5cb7-42cc-a658-3923eecf6dc1-image"
+        },
+        {
+            "dataItemId": "85ff53e6-0ef6-402d-95bb-064b8471fd93",
+            "dataName": "000000090631.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/85ff53e6-0ef6-402d-95bb-064b8471fd93-image"
+        },
+        {
+            "dataItemId": "877ec272-c1a3-461b-8762-9db0cf7c0b8d",
+            "dataName": "000000530854.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/877ec272-c1a3-461b-8762-9db0cf7c0b8d-image"
+        },
+        {
+            "dataItemId": "88b89878-f5f0-4091-99fc-d0cdfe511c55",
+            "dataName": "000000271116.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/88b89878-f5f0-4091-99fc-d0cdfe511c55-image"
+        },
+        {
+            "dataItemId": "96793335-e38b-4712-b48f-6201ea0bab58",
+            "dataName": "000000336587.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/96793335-e38b-4712-b48f-6201ea0bab58-image"
+        },
+        {
+            "dataItemId": "9d48aa21-86eb-478b-bf54-e0dbc93eaba5",
+            "dataName": "000000565624.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/9d48aa21-86eb-478b-bf54-e0dbc93eaba5-image"
+        },
+        {
+            "dataItemId": "a7aca9d2-59d3-40d8-bea8-c7942d50914c",
+            "dataName": "000000234607.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/a7aca9d2-59d3-40d8-bea8-c7942d50914c-image"
+        },
+        {
+            "dataItemId": "a8e106ec-56ca-4e6b-90c8-fa0f51ff20db",
+            "dataName": "000000157767.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/a8e106ec-56ca-4e6b-90c8-fa0f51ff20db-image"
+        },
+        {
+            "dataItemId": "b2ea0229-4d55-4795-a59f-6db712f1f57a",
+            "dataName": "000000288762.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/b2ea0229-4d55-4795-a59f-6db712f1f57a-image"
+        },
+        {
+            "dataItemId": "b3553a3a-64c3-42ee-b865-dc2314b44fda",
+            "dataName": "000000525155.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/b3553a3a-64c3-42ee-b865-dc2314b44fda-image"
+        },
+        {
+            "dataItemId": "b7d6c9b9-9eac-48aa-81c7-ce5c080c8775",
+            "dataName": "000000493442.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/b7d6c9b9-9eac-48aa-81c7-ce5c080c8775-image"
+        },
+        {
+            "dataItemId": "bbf5b0f7-d1e3-4ec2-91d6-190a02598524",
+            "dataName": "000000417876.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/bbf5b0f7-d1e3-4ec2-91d6-190a02598524-image"
+        },
+        {
+            "dataItemId": "bf3a94fe-c9af-44d8-8a4c-b00e893d2a25",
+            "dataName": "000000282037.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/bf3a94fe-c9af-44d8-8a4c-b00e893d2a25-image"
+        },
+        {
+            "dataItemId": "cd4d8ea9-4c1e-4b59-991b-1ea9bf519568",
+            "dataName": "000000417911.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/cd4d8ea9-4c1e-4b59-991b-1ea9bf519568-image"
+        },
+        {
+            "dataItemId": "d3e0019d-ff27-4b75-9f5e-7a8488eade72",
+            "dataName": "000000248112.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/d3e0019d-ff27-4b75-9f5e-7a8488eade72-image"
+        },
+        {
+            "dataItemId": "e1fcaa2e-a9f0-4a05-91a4-60b24591901e",
+            "dataName": "000000125245.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/e1fcaa2e-a9f0-4a05-91a4-60b24591901e-image"
+        },
+        {
+            "dataItemId": "e737eadb-ff70-422e-8ef8-447cd3f5ca04",
+            "dataName": "000000476215.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/e737eadb-ff70-422e-8ef8-447cd3f5ca04-image"
+        },
+        {
+            "dataItemId": "ea6607b7-dc5a-43e5-abfa-d8514e48616a",
+            "dataName": "000000129062.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/ea6607b7-dc5a-43e5-abfa-d8514e48616a-image"
+        },
+        {
+            "dataItemId": "f0d21f51-c5bf-43aa-8503-ab422cffb4d0",
+            "dataName": "000000002587.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/f0d21f51-c5bf-43aa-8503-ab422cffb4d0-image"
+        },
+        {
+            "dataItemId": "f0f02ca1-408a-4519-bf5b-4081912f2783",
+            "dataName": "000000439773.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/f0f02ca1-408a-4519-bf5b-4081912f2783-image"
+        },
+        {
+            "dataItemId": "f1cb28d6-1c55-49a2-9c0c-f375c12c623b",
+            "dataName": "000000410612.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/f1cb28d6-1c55-49a2-9c0c-f375c12c623b-image"
+        },
+        {
+            "dataItemId": "f298cfdc-476a-432c-880d-bf672b17f978",
+            "dataName": "000000440475.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/f298cfdc-476a-432c-880d-bf672b17f978-image"
+        },
+        {
+            "dataItemId": "f3bc8a18-864d-4977-8cf1-74045fd0dc21",
+            "dataName": "000000441286.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/f3bc8a18-864d-4977-8cf1-74045fd0dc21-image"
+        },
+        {
+            "dataItemId": "f3cb0890-c8f5-4976-96d0-eb2790ceea88",
+            "dataName": "000000078843.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/f3cb0890-c8f5-4976-96d0-eb2790ceea88-image"
+        },
+        {
+            "dataItemId": "f59e8b7a-91df-42a5-b609-e5b48e8c83ea",
+            "dataName": "000000492968.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/f59e8b7a-91df-42a5-b609-e5b48e8c83ea-image"
+        },
+        {
+            "dataItemId": "f6571d3d-0ee2-4c92-bddb-ed6aaffa9b6d",
+            "dataName": "000000562121.jpg",
+            "objectKey": "raw-data/b3fdf13b-bd38-4951-97df-e53ea8238194/f6571d3d-0ee2-4c92-bddb-ed6aaffa9b6d-image"
+        }
+    ]
+}

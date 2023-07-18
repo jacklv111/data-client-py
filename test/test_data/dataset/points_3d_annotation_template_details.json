@@ -1,0 +1,74 @@
+{
+    "id": "79f5dd28-7e5a-4331-bd1c-e51eeb40ed3b",
+    "name": "stanford-indoor3d-small",
+    "createAt": 1685416865846,
+    "updateAt": 1685416865846,
+    "type": "points-3d",
+    "labels": [
+        {
+            "id": "d08bf87b-32b7-4d00-b3f5-f32556e76269",
+            "name": "beam",
+            "color": 0
+        },
+        {
+            "id": "240f550a-bf60-4a56-ab5d-92c5050717e3",
+            "name": "board",
+            "color": 0
+        },
+        {
+            "id": "0986012b-cdbf-4bfa-a5ca-da3ea0cc039d",
+            "name": "bookcase",
+            "color": 0
+        },
+        {
+            "id": "4fecce05-6b3f-4be9-a868-1b5a7975eec1",
+            "name": "ceiling",
+            "color": 0
+        },
+        {
+            "id": "7b006d34-3bf8-467b-9bae-2fedcc818457",
+            "name": "chair",
+            "color": 0
+        },
+        {
+            "id": "18dbbd87-82ee-438a-96c9-9f8d66f6ab08",
+            "name": "clutter",
+            "color": 0
+        },
+        {
+            "id": "c943a3b3-6a58-4c6f-9122-ebeed721bd18",
+            "name": "column",
+            "color": 0
+        },
+        {
+            "id": "37971bca-4526-44c5-a539-908105abcccc",
+            "name": "door",
+            "color": 0
+        },
+        {
+            "id": "ec749994-3164-43e2-b6b0-89d84d0bbe9f",
+            "name": "floor",
+            "color": 0
+        },
+        {
+            "id": "b8478971-23c2-40df-835b-c7d95468dd6c",
+            "name": "sofa",
+            "color": 0
+        },
+        {
+            "id": "98cb7a58-a936-4132-b744-02babb9d3f6e",
+            "name": "table",
+            "color": 0
+        },
+        {
+            "id": "d5b6e19a-7318-4a6f-93f0-1d298d027ddc",
+            "name": "wall",
+            "color": 0
+        },
+        {
+            "id": "845ccfa6-de47-44da-8ab6-4d6690ec136d",
+            "name": "window",
+            "color": 0
+        }
+    ]
+}

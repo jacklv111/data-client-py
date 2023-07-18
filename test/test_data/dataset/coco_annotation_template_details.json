@@ -1,0 +1,488 @@
+{
+    "id": "c6d4f469-3477-4332-a6e8-605d0739ec9e",
+    "name": "coco_det",
+    "createAt": 1679294083081,
+    "updateAt": 1679294083081,
+    "type": "coco-type",
+    "labels": [
+        {
+            "id": "f361f03b-2633-4d5e-bbee-d43e14f2755b",
+            "name": "airplane",
+            "superCategoryName": "vehicle",
+            "color": 0
+        },
+        {
+            "id": "b431203e-be99-4294-a6c7-d7e62cf2eb9a",
+            "name": "apple",
+            "superCategoryName": "food",
+            "color": 0
+        },
+        {
+            "id": "ca3ff877-803a-40d0-8787-7bac7c636390",
+            "name": "backpack",
+            "superCategoryName": "accessory",
+            "color": 0
+        },
+        {
+            "id": "5a43db79-d4d1-4788-88d1-499edf72e99e",
+            "name": "banana",
+            "superCategoryName": "food",
+            "color": 0
+        },
+        {
+            "id": "26bcfc69-bc58-4f6e-bdd4-135c9591f98c",
+            "name": "baseball bat",
+            "superCategoryName": "sports",
+            "color": 0
+        },
+        {
+            "id": "150df702-e289-469a-8cba-cbd97a03c65c",
+            "name": "baseball glove",
+            "superCategoryName": "sports",
+            "color": 0
+        },
+        {
+            "id": "5421a6ca-f259-490b-979d-cd2e396d87d4",
+            "name": "bear",
+            "superCategoryName": "animal",
+            "color": 0
+        },
+        {
+            "id": "586fb523-1a2b-4ee9-8188-5229b062c810",
+            "name": "bed",
+            "superCategoryName": "furniture",
+            "color": 0
+        },
+        {
+            "id": "f4ecf895-83ac-4f15-8d75-2988c8406325",
+            "name": "bench",
+            "superCategoryName": "outdoor",
+            "color": 0
+        },
+        {
+            "id": "43e86dde-0fd4-42eb-a546-4398f91665ef",
+            "name": "bicycle",
+            "superCategoryName": "vehicle",
+            "color": 0
+        },
+        {
+            "id": "dd3b91d7-1df6-4b1e-8f15-3fe929749b3f",
+            "name": "bird",
+            "superCategoryName": "animal",
+            "color": 0
+        },
+        {
+            "id": "7f977ccd-dfb0-4623-ad41-a176593ace92",
+            "name": "boat",
+            "superCategoryName": "vehicle",
+            "color": 0
+        },
+        {
+            "id": "f6da74dd-428c-477d-a5ca-2fd8c27b2c6b",
+            "name": "book",
+            "superCategoryName": "indoor",
+            "color": 0
+        },
+        {
+            "id": "838d2d20-5a8e-465c-92e2-b5a155b047b2",
+            "name": "bottle",
+            "superCategoryName": "kitchen",
+            "color": 0
+        },
+        {
+            "id": "a2536772-757b-4799-907d-adbf321aec94",
+            "name": "bowl",
+            "superCategoryName": "kitchen",
+            "color": 0
+        },
+        {
+            "id": "4e4b3221-073d-4959-8f4c-ab0a7df2d6ce",
+            "name": "broccoli",
+            "superCategoryName": "food",
+            "color": 0
+        },
+        {
+            "id": "9ee6bf25-97bf-45c6-aecb-c6e62c192a5b",
+            "name": "bus",
+            "superCategoryName": "vehicle",
+            "color": 0
+        },
+        {
+            "id": "265b0e89-0fd8-46a6-86d7-ec582232e9b0",
+            "name": "cake",
+            "superCategoryName": "food",
+            "color": 0
+        },
+        {
+            "id": "7172e5d6-22e0-4720-862c-06baa6a94e65",
+            "name": "car",
+            "superCategoryName": "vehicle",
+            "color": 0
+        },
+        {
+            "id": "bb9fad25-fb29-4084-8616-526183b806cb",
+            "name": "carrot",
+            "superCategoryName": "food",
+            "color": 0
+        },
+        {
+            "id": "af150193-8220-4ebb-a8d9-244a5f7a6b1a",
+            "name": "cat",
+            "superCategoryName": "animal",
+            "color": 0
+        },
+        {
+            "id": "0d2a8b64-8c62-4aed-918d-53efad890e50",
+            "name": "cell phone",
+            "superCategoryName": "electronic",
+            "color": 0
+        },
+        {
+            "id": "734dd36b-8779-425f-8e66-ee3431e1c0db",
+            "name": "chair",
+            "superCategoryName": "furniture",
+            "color": 0
+        },
+        {
+            "id": "103f01f7-1f2f-4134-845b-de2a691558e7",
+            "name": "clock",
+            "superCategoryName": "indoor",
+            "color": 0
+        },
+        {
+            "id": "16205340-fb18-43a2-b2ee-18996be25848",
+            "name": "couch",
+            "superCategoryName": "furniture",
+            "color": 0
+        },
+        {
+            "id": "1688b012-e10c-40c0-968c-b3de7da04689",
+            "name": "cow",
+            "superCategoryName": "animal",
+            "color": 0
+        },
+        {
+            "id": "2f708782-014b-4565-97ae-921e995d27d3",
+            "name": "cup",
+            "superCategoryName": "kitchen",
+            "color": 0
+        },
+        {
+            "id": "4b0b9ea6-58a6-422c-a7e3-29a1681841f5",
+            "name": "dining table",
+            "superCategoryName": "furniture",
+            "color": 0
+        },
+        {
+            "id": "e1143ea4-0e46-4cce-8717-f22e4be26b1a",
+            "name": "dog",
+            "superCategoryName": "animal",
+            "color": 0
+        },
+        {
+            "id": "feb270dd-b588-4c86-a877-62aae4400181",
+            "name": "donut",
+            "superCategoryName": "food",
+            "color": 0
+        },
+        {
+            "id": "899f1d76-eb0b-4470-9f12-e0cda5fa5771",
+            "name": "elephant",
+            "superCategoryName": "animal",
+            "color": 0
+        },
+        {
+            "id": "6dc226c6-c8f4-413d-9651-5520cb94308a",
+            "name": "fire hydrant",
+            "superCategoryName": "outdoor",
+            "color": 0
+        },
+        {
+            "id": "47318b39-3f97-4049-8812-db017265c879",
+            "name": "fork",
+            "superCategoryName": "kitchen",
+            "color": 0
+        },
+        {
+            "id": "f5623fd8-342e-4b21-be72-438c4d23a178",
+            "name": "frisbee",
+            "superCategoryName": "sports",
+            "color": 0
+        },
+        {
+            "id": "b5fde730-18e9-44ef-82e6-6e4522bf0030",
+            "name": "giraffe",
+            "superCategoryName": "animal",
+            "color": 0
+        },
+        {
+            "id": "561d74d6-05e8-4f51-b285-5b3a8ae3086b",
+            "name": "hair drier",
+            "superCategoryName": "indoor",
+            "color": 0
+        },
+        {
+            "id": "77570ba8-91c2-4978-a4c5-04a67a7edd6d",
+            "name": "handbag",
+            "superCategoryName": "accessory",
+            "color": 0
+        },
+        {
+            "id": "5f2baac7-8f81-459f-b761-594b0102ef12",
+            "name": "horse",
+            "superCategoryName": "animal",
+            "color": 0
+        },
+        {
+            "id": "87ba2a49-b2f2-42ad-a39d-11cd7692fbb3",
+            "name": "hot dog",
+            "superCategoryName": "food",
+            "color": 0
+        },
+        {
+            "id": "27c6c7b0-8425-4b9f-b39a-ab9ef8865e38",
+            "name": "keyboard",
+            "superCategoryName": "electronic",
+            "color": 0
+        },
+        {
+            "id": "c2c74453-7720-4c45-82bd-0bf387c9054c",
+            "name": "kite",
+            "superCategoryName": "sports",
+            "color": 0
+        },
+        {
+            "id": "560c7bc1-a583-4f2e-ba3e-88254fdce18d",
+            "name": "knife",
+            "superCategoryName": "kitchen",
+            "color": 0
+        },
+        {
+            "id": "6b4bc67a-e654-4a93-a05a-81e18cb9ad5c",
+            "name": "laptop",
+            "superCategoryName": "electronic",
+            "color": 0
+        },
+        {
+            "id": "9467e816-bbb2-49ee-8067-39ea8419758b",
+            "name": "microwave",
+            "superCategoryName": "appliance",
+            "color": 0
+        },
+        {
+            "id": "c9232db9-f5a7-44d9-97bb-e439ec3c58a6",
+            "name": "motorcycle",
+            "superCategoryName": "vehicle",
+            "color": 0
+        },
+        {
+            "id": "aca1d954-7395-4e90-8500-9919c7511942",
+            "name": "mouse",
+            "superCategoryName": "electronic",
+            "color": 0
+        },
+        {
+            "id": "9bb5aa14-f79b-4c40-8695-c70e22146d44",
+            "name": "orange",
+            "superCategoryName": "food",
+            "color": 0
+        },
+        {
+            "id": "0f3de2ff-9c10-4e83-b94f-b27301521708",
+            "name": "oven",
+            "superCategoryName": "appliance",
+            "color": 0
+        },
+        {
+            "id": "3534fb25-45c5-49a6-8de3-8c97e16da611",
+            "name": "parking meter",
+            "superCategoryName": "outdoor",
+            "color": 0
+        },
+        {
+            "id": "61989cdf-2e89-46d6-b314-d13072d50b43",
+            "name": "person",
+            "superCategoryName": "person",
+            "color": 0
+        },
+        {
+            "id": "16aebccd-3a34-48b4-8787-3ea9a01c2676",
+            "name": "pizza",
+            "superCategoryName": "food",
+            "color": 0
+        },
+        {
+            "id": "732a89a9-23c3-4c4b-b6f9-963a87c5fdeb",
+            "name": "potted plant",
+            "superCategoryName": "furniture",
+            "color": 0
+        },
+        {
+            "id": "33730b14-b57d-4fc7-8d74-01629e356325",
+            "name": "refrigerator",
+            "superCategoryName": "appliance",
+            "color": 0
+        },
+        {
+            "id": "fbb0f5b9-3ec0-4ec9-9e56-c66a9ddd7ee9",
+            "name": "remote",
+            "superCategoryName": "electronic",
+            "color": 0
+        },
+        {
+            "id": "999d6efd-1c06-4001-8252-33004b623342",
+            "name": "sandwich",
+            "superCategoryName": "food",
+            "color": 0
+        },
+        {
+            "id": "b8628fc7-2e2d-4257-8692-e8d5897db0b9",
+            "name": "scissors",
+            "superCategoryName": "indoor",
+            "color": 0
+        },
+        {
+            "id": "5f07e53d-966f-413e-bff2-6d0707ea3ad9",
+            "name": "sheep",
+            "superCategoryName": "animal",
+            "color": 0
+        },
+        {
+            "id": "4bf41040-bdfa-429d-a405-76695c269636",
+            "name": "sink",
+            "superCategoryName": "appliance",
+            "color": 0
+        },
+        {
+            "id": "21836cdd-5a1a-4502-bb01-cf52841072e1",
+            "name": "skateboard",
+            "superCategoryName": "sports",
+            "color": 0
+        },
+        {
+            "id": "8b04b033-c5ca-4ad7-abb8-bec828aca968",
+            "name": "skis",
+            "superCategoryName": "sports",
+            "color": 0
+        },
+        {
+            "id": "247c7e20-c1cc-4d7e-bb9d-16f5dca5a87d",
+            "name": "snowboard",
+            "superCategoryName": "sports",
+            "color": 0
+        },
+        {
+            "id": "274fed0e-b4cf-41ca-82b5-95e35b70a5c6",
+            "name": "spoon",
+            "superCategoryName": "kitchen",
+            "color": 0
+        },
+        {
+            "id": "c8402027-86e6-4d83-af1e-37abb119862c",
+            "name": "sports ball",
+            "superCategoryName": "sports",
+            "color": 0
+        },
+        {
+            "id": "5721b4d0-fb81-487d-9641-2c6dab39e702",
+            "name": "stop sign",
+            "superCategoryName": "outdoor",
+            "color": 0
+        },
+        {
+            "id": "f406945b-5220-428f-8736-3588f564c9f3",
+            "name": "suitcase",
+            "superCategoryName": "accessory",
+            "color": 0
+        },
+        {
+            "id": "1bc74c03-bce3-4dd1-98ca-922b93926214",
+            "name": "surfboard",
+            "superCategoryName": "sports",
+            "color": 0
+        },
+        {
+            "id": "20e62677-074b-46a5-8cdd-20e2b4e2a36c",
+            "name": "teddy bear",
+            "color": 0
+        },
+        {
+            "id": "bc1c7df0-16fb-4eca-9468-5f466bc34f6c",
+            "name": "tennis racket",
+            "superCategoryName": "sports",
+            "color": 0
+        },
+        {
+            "id": "e1651b1a-58c2-424e-8252-966561a0c0d9",
+            "name": "tie",
+            "superCategoryName": "accessory",
+            "color": 0
+        },
+        {
+            "id": "6d3cbd1f-bfbf-4348-90e2-4e5a2ab9c3c1",
+            "name": "toaster",
+            "superCategoryName": "appliance",
+            "color": 0
+        },
+        {
+            "id": "bd61c1f8-1319-462f-a03c-44f673c47d1e",
+            "name": "toilet",
+            "superCategoryName": "furniture",
+            "color": 0
+        },
+        {
+            "id": "5e9bbb73-72af-46f3-8b66-defac6deec2f",
+            "name": "toothbrush",
+            "superCategoryName": "indoor",
+            "color": 0
+        },
+        {
+            "id": "89dd5dec-1e9c-401a-a403-151a004e40d5",
+            "name": "traffic light",
+            "superCategoryName": "outdoor",
+            "color": 0
+        },
+        {
+            "id": "410bdf48-17ea-4604-a506-33af70d1ac84",
+            "name": "train",
+            "superCategoryName": "vehicle",
+            "color": 0
+        },
+        {
+            "id": "203a65df-e821-46ec-b215-9ba5d86e4bf8",
+            "name": "truck",
+            "superCategoryName": "vehicle",
+            "color": 0
+        },
+        {
+            "id": "0b372a06-066f-484e-b2a2-a3e6b9794e60",
+            "name": "tv",
+            "superCategoryName": "electronic",
+            "color": 0
+        },
+        {
+            "id": "6895f5af-8704-4750-a893-d1d06cbfef71",
+            "name": "umbrella",
+            "superCategoryName": "accessory",
+            "color": 0
+        },
+        {
+            "id": "1f5f3630-5da1-441f-add7-321885933e87",
+            "name": "vase",
+            "superCategoryName": "indoor",
+            "color": 0
+        },
+        {
+            "id": "0b7481fe-307c-49bc-a85c-61c4807ab7cb",
+            "name": "wine glass",
+            "superCategoryName": "kitchen",
+            "color": 0
+        },
+        {
+            "id": "d557ac45-f4c9-488f-b07b-7ea25b7b6f7e",
+            "name": "zebra",
+            "superCategoryName": "animal",
+            "color": 0
+        }
+    ]
+}

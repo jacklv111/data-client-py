@@ -1,0 +1,59 @@
+{
+    "id": "d2db565b-3e50-42df-bc89-3be956c3de60",
+    "name": "minisunrgbd",
+    "createAt": 1677839035135,
+    "updateAt": 1677839035135,
+    "type": "rgbd",
+    "labels": [
+        {
+            "id": "7093af59-942f-4453-b762-f5b8d079ced7",
+            "name": "bathtub",
+            "color": 0
+        },
+        {
+            "id": "8e94617a-1146-47c0-8ce1-189afed4d82b",
+            "name": "bed",
+            "color": 0
+        },
+        {
+            "id": "72885942-e335-46f3-ab3f-398882a40f4a",
+            "name": "bookshelf",
+            "color": 0
+        },
+        {
+            "id": "c9254012-e47a-4505-872d-889f84488b47",
+            "name": "chair",
+            "color": 0
+        },
+        {
+            "id": "7dc92dda-6163-4a84-8353-462a82c1ebd0",
+            "name": "desk",
+            "color": 0
+        },
+        {
+            "id": "b6841fd0-4608-4236-afe0-2d297a1ab30f",
+            "name": "dresser",
+            "color": 0
+        },
+        {
+            "id": "91fb39bf-0402-4ddd-af89-b36cda593cb9",
+            "name": "night_stand",
+            "color": 0
+        },
+        {
+            "id": "30ac11d6-68bc-4cef-aae6-8cc80ea1453c",
+            "name": "sofa",
+            "color": 0
+        },
+        {
+            "id": "421dded4-40bc-49f6-b7cd-1c7b601c92e7",
+            "name": "table",
+            "color": 0
+        },
+        {
+            "id": "c51375d2-a190-4eb6-bff1-e512f4228658",
+            "name": "toilet",
+            "color": 0
+        }
+    ]
+}

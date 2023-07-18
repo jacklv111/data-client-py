@@ -1,0 +1,17 @@
+[
+    {
+        "id": "4a5a48b3-f44b-4e30-9300-a86512535779",
+        "name": "ocr-val",
+        "viewType": "raw-data",
+        "rawDataType": "image",
+        "createAt": 1677651785968
+    },
+    {
+        "id": "800c4a0d-1d9a-4975-91df-3ce5df74d395",
+        "name": "ocr-val",
+        "viewType": "annotation",
+        "annotationTemplateId": "5537b392-8ca3-40e1-b549-f79ccf252609",
+        "annotationTemplateType": "ocr",
+        "createAt": 1677651820069
+    }
+]

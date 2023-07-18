@@ -1,0 +1,66 @@
+{
+    "dataViewId": "2897d7de-3d1e-446c-92e5-64f7c74d7afa",
+    "viewType": "model",
+    "dataItems": [
+        {
+            "dataItemId": "18f7acfb-a576-42ca-af3d-16989cb34e7d",
+            "dataName": "fff.log",
+            "objectKey": "model/ae7f36d5-2b73-4e47-a358-b66ae42dcad42023-04-06-12:45:58/18f7acfb-a576-42ca-af3d-16989cb34e7d-fff.log"
+        },
+        {
+            "dataItemId": "1de0f0a3-3f42-4b8d-ae71-b508a4feffbd",
+            "dataName": "d.log",
+            "objectKey": "model/b844b64c-ddf2-45bd-8311-667ab341208c2023-04-06-12:22:14/1de0f0a3-3f42-4b8d-ae71-b508a4feffbd-d.log"
+        },
+        {
+            "dataItemId": "2c0368ad-651e-44a2-8d82-632cf94eb2ea",
+            "dataName": "ccc.log",
+            "objectKey": "model/ae7f36d5-2b73-4e47-a358-b66ae42dcad42023-04-06-12:45:58/2c0368ad-651e-44a2-8d82-632cf94eb2ea-ccc.log"
+        },
+        {
+            "dataItemId": "6c751879-7446-4db4-a99f-cf7cc84013d8",
+            "dataName": "a.log",
+            "objectKey": "model/8188aecc-587a-40d5-a860-c188900a47f82023-03-28-15:49:41/6c751879-7446-4db4-a99f-cf7cc84013d8-a.log"
+        },
+        {
+            "dataItemId": "6c8f0dc6-7047-40b4-975b-7686048f2b78",
+            "dataName": "model.onnx",
+            "objectKey": "model/1e98a87f-3604-4063-8c19-3b73c777c07b2023-03-24-12:06:04/6c8f0dc6-7047-40b4-975b-7686048f2b78-model.onnx"
+        },
+        {
+            "dataItemId": "6cc6fb72-6c41-44c5-aa12-379e735750b7",
+            "dataName": "b.log",
+            "objectKey": "model/8188aecc-587a-40d5-a860-c188900a47f82023-03-28-15:49:41/6cc6fb72-6c41-44c5-aa12-379e735750b7-b.log"
+        },
+        {
+            "dataItemId": "6d88d9cf-3f85-4ff7-9686-cf7103a57fbf",
+            "dataName": "c.log",
+            "objectKey": "model/8188aecc-587a-40d5-a860-c188900a47f82023-03-28-15:49:41/6d88d9cf-3f85-4ff7-9686-cf7103a57fbf-c.log"
+        },
+        {
+            "dataItemId": "a0e9b487-7db4-4778-888e-abd470d3249b",
+            "dataName": "lastPth",
+            "objectKey": "model/62ce71da-1736-4f97-bd99-4ff5815b01172023-03-24-12:23:11/a0e9b487-7db4-4778-888e-abd470d3249b-lastPth"
+        },
+        {
+            "dataItemId": "c27c1c37-3338-48fc-a39b-4ad364c5ff96",
+            "dataName": "www.pth",
+            "objectKey": "model/8891948b-9384-46ab-aa43-241e8d1e14a42023-03-24-12:12:57/c27c1c37-3338-48fc-a39b-4ad364c5ff96-www.pth"
+        },
+        {
+            "dataItemId": "d0e1a730-f4f6-4b5e-ac69-56a69556f31a",
+            "dataName": "best.pth",
+            "objectKey": "model/1e98a87f-3604-4063-8c19-3b73c777c07b2023-03-24-12:06:04/d0e1a730-f4f6-4b5e-ac69-56a69556f31a-best.pth"
+        },
+        {
+            "dataItemId": "d9e1eaf8-0631-4d4e-b792-44f94c121e11",
+            "dataName": "onnx",
+            "objectKey": "model/62ce71da-1736-4f97-bd99-4ff5815b01172023-03-24-12:23:11/d9e1eaf8-0631-4d4e-b792-44f94c121e11-onnx"
+        },
+        {
+            "dataItemId": "ffb2fc38-704c-4278-a656-1c13ecc7a040",
+            "dataName": "bestPth",
+            "objectKey": "model/7c84ea1a-38bb-4d8b-839d-cad94b1247ad2023-03-28-15:49:41/ffb2fc38-704c-4278-a656-1c13ecc7a040-bestPth"
+        }
+    ]
+}

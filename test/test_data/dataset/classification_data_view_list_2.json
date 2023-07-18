@@ -1,0 +1,24 @@
+[
+    {
+        "id": "61610fb8-55cb-45bd-90c1-9926b1150361",
+        "name": "flower-classify-train",
+        "viewType": "annotation",
+        "annotationTemplateId": "d2d5d4c1-3286-49eb-acf8-677885776fc2",
+        "annotationTemplateType": "category",
+        "createAt": 1677059198626
+    },
+    {
+        "id": "6b21b10e-4c8d-476b-898e-de2760d8c4c7",
+        "name": "flower-classify-train",
+        "viewType": "raw-data",
+        "rawDataType": "image",
+        "createAt": 1677059146353
+    },
+    {
+        "id": "2221b10e-4c8d-476b-898e-de2760d8c4c7",
+        "name": "flower-classify-val",
+        "viewType": "raw-data",
+        "rawDataType": "image",
+        "createAt": 1677059146353
+    }
+]

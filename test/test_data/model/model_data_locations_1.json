@@ -1,0 +1,16 @@
+{
+    "dataViewId": "eeed2ea5-72d3-40a8-a286-44cbe22a0948",
+    "viewType": "model",
+    "dataItems": [
+        {
+            "dataItemId": "6e489c9e-94d6-4bfd-bdea-74b66516b87f",
+            "dataName": "lastPth",
+            "objectKey": "model/a3178583-ea12-428c-8de7-efc0698d921c2023-03-28-16:29:37/6e489c9e-94d6-4bfd-bdea-74b66516b87f-lastPth"
+        },
+        {
+            "dataItemId": "bd4e3746-e94d-473d-9859-5d4adb808974",
+            "dataName": "bestPth",
+            "objectKey": "model/d77d198f-a540-4c19-a232-975b5a6db45d2023-03-28-15:49:41/bd4e3746-e94d-473d-9859-5d4adb808974-bestPth"
+        }
+    ]
+}

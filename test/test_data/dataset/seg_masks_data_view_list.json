@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0f87a257-10ab-4763-b8d4-d70138cb51d3",
+        "name": "segmentation-pointer-val",
+        "viewType": "annotation",
+        "annotationTemplateId": "85b8a2b9-762c-4a3d-be53-95744d11f85c",
+        "annotationTemplateType": "segmentation-masks",
+        "createAt": 1678697236531
+    },
+    {
+        "id": "1da7e802-15d6-4bec-9d69-1d0feb09315b",
+        "name": "segmentation-pointer-val",
+        "viewType": "raw-data",
+        "rawDataType": "image",
+        "createAt": 1678697181432
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "id": "d2d5d4c1-3286-49eb-acf8-677885776fc2",
+    "name": "flower",
+    "createAt": 1676532388755,
+    "updateAt": 1676532388755,
+    "type": "category",
+    "labels": [
+        {
+            "id": "de9aad12-3e73-4325-86d1-d2e101b62349",
+            "name": "Daisy",
+            "color": 0
+        },
+        {
+            "id": "657f6059-8802-430e-8d45-4ced4d1ddaf5",
+            "name": "Lavender",
+            "color": 1
+        },
+        {
+            "id": "5063e54b-6be8-429b-aeaf-666a5a60018e",
+            "name": "Lily",
+            "color": 2
+        },
+        {
+            "id": "29d18676-7363-4761-91ef-8fd8d12d4a18",
+            "name": "Rose",
+            "color": 3
+        },
+        {
+            "id": "ab3e6ac9-8a30-4fae-81e9-d62659edd998",
+            "name": "Sunflower",
+            "color": 4
+        }
+    ]
+}

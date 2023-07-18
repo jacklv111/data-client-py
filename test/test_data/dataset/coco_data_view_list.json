@@ -1,0 +1,17 @@
+[
+    {
+        "id": "38dc1190-d1d1-46c4-b617-178b024fc10d",
+        "name": "coco-small-det-train",
+        "viewType": "annotation",
+        "annotationTemplateId": "c6d4f469-3477-4332-a6e8-605d0739ec9e",
+        "annotationTemplateType": "coco-type",
+        "createAt": 1679294364669
+    },
+    {
+        "id": "cf11dc76-0193-4694-a02a-aa112050fbec",
+        "name": "coco-small-det-train",
+        "viewType": "raw-data",
+        "rawDataType": "image",
+        "createAt": 1679292029178
+    }
+]

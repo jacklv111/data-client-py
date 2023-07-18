@@ -1,0 +1,12 @@
+{
+    "dataViewId": "04550946-3add-47a2-9011-a329a0c2b6aa",
+    "annotationTemplateId": "d2db565b-3e50-42df-bc89-3be956c3de60",
+    "viewType": "annotation",
+    "dataItems": [
+        {
+            "dataItemId": "0010e41e-5c5e-486c-8457-c3c9a804de8c",
+            "dataName": "002359.json",
+            "objectKey": "annotation/ad4f161a-7037-4bda-98b6-e3e9489fe36d2023-03-03-18:43:05/0010e41e-5c5e-486c-8457-c3c9a804de8c-rgbd"
+        }
+    ]
+}

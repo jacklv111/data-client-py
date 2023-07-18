@@ -1,0 +1,257 @@
+{
+    "dataViewId": "38dc1190-d1d1-46c4-b617-178b024fc10d",
+    "annotationTemplateId": "c6d4f469-3477-4332-a6e8-605d0739ec9e",
+    "viewType": "annotation",
+    "dataItems": [
+        {
+            "dataItemId": "85ff53e6-0ef6-402d-95bb-064b8471fd93",
+            "dataName": "85ff53e6-0ef6-402d-95bb-064b8471fd93.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/0748d215-3173-4dba-a7af-105ef781658b-coco-type"
+        },
+        {
+            "dataItemId": "1d400db1-d36c-4fe1-b09a-72be451eac4f",
+            "dataName": "1d400db1-d36c-4fe1-b09a-72be451eac4f.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/1090ea86-e2b5-42a3-9dc9-2edc53a6a05a-coco-type"
+        },
+        {
+            "dataItemId": "43bda5f3-df04-4999-9b15-20a04cffc3ea",
+            "dataName": "43bda5f3-df04-4999-9b15-20a04cffc3ea.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/2543210e-5679-4e32-b6c3-431acf4336aa-coco-type"
+        },
+        {
+            "dataItemId": "f0d21f51-c5bf-43aa-8503-ab422cffb4d0",
+            "dataName": "f0d21f51-c5bf-43aa-8503-ab422cffb4d0.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/26b88ac6-c616-4744-a21a-632d32f148e8-coco-type"
+        },
+        {
+            "dataItemId": "f6571d3d-0ee2-4c92-bddb-ed6aaffa9b6d",
+            "dataName": "f6571d3d-0ee2-4c92-bddb-ed6aaffa9b6d.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/27a59351-aded-4d3f-b788-9f85a022d658-coco-type"
+        },
+        {
+            "dataItemId": "3308f881-ddf7-46a8-8533-7414e85df94e",
+            "dataName": "3308f881-ddf7-46a8-8533-7414e85df94e.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/27fd0c4c-4b33-4444-998d-c7e3f7fedccd-coco-type"
+        },
+        {
+            "dataItemId": "4f0a6d00-02ab-4f27-b354-f66823669ab5",
+            "dataName": "4f0a6d00-02ab-4f27-b354-f66823669ab5.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/28d94ba7-499c-42dd-88f9-e71c05ad4180-coco-type"
+        },
+        {
+            "dataItemId": "7f9b9a8d-5cb7-42cc-a658-3923eecf6dc1",
+            "dataName": "7f9b9a8d-5cb7-42cc-a658-3923eecf6dc1.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/2ade2dde-e643-479f-b043-c1e91f75916c-coco-type"
+        },
+        {
+            "dataItemId": "068ac5d6-e3f0-4c6d-9147-f3554af7b289",
+            "dataName": "068ac5d6-e3f0-4c6d-9147-f3554af7b289.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/2db027e1-f2f1-4bd5-96bb-3da1512f87f0-coco-type"
+        },
+        {
+            "dataItemId": "9d48aa21-86eb-478b-bf54-e0dbc93eaba5",
+            "dataName": "9d48aa21-86eb-478b-bf54-e0dbc93eaba5.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/37f5e91e-3dcb-4e82-8305-e6e88309a8a4-coco-type"
+        },
+        {
+            "dataItemId": "f298cfdc-476a-432c-880d-bf672b17f978",
+            "dataName": "f298cfdc-476a-432c-880d-bf672b17f978.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/3b561d41-99e5-435b-9f4e-0d04d8f561b4-coco-type"
+        },
+        {
+            "dataItemId": "d3e0019d-ff27-4b75-9f5e-7a8488eade72",
+            "dataName": "d3e0019d-ff27-4b75-9f5e-7a8488eade72.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/40eafcb6-29ab-419d-afaa-29a9190a8511-coco-type"
+        },
+        {
+            "dataItemId": "64ec6ff4-ce1c-41ff-ab0e-5d1179419b96",
+            "dataName": "64ec6ff4-ce1c-41ff-ab0e-5d1179419b96.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/41e5e7c5-422c-4736-89e8-3799a16c153a-coco-type"
+        },
+        {
+            "dataItemId": "2420c7d5-bbc6-410a-8b29-5610e51422ce",
+            "dataName": "2420c7d5-bbc6-410a-8b29-5610e51422ce.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/41e9075b-a967-4f5b-8682-d3e664abec0f-coco-type"
+        },
+        {
+            "dataItemId": "e737eadb-ff70-422e-8ef8-447cd3f5ca04",
+            "dataName": "e737eadb-ff70-422e-8ef8-447cd3f5ca04.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/429351c5-865d-4e28-bd75-4fc39058fe59-coco-type"
+        },
+        {
+            "dataItemId": "f59e8b7a-91df-42a5-b609-e5b48e8c83ea",
+            "dataName": "f59e8b7a-91df-42a5-b609-e5b48e8c83ea.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/43532988-8b30-4521-8d1c-89c1ee576af0-coco-type"
+        },
+        {
+            "dataItemId": "0757c226-74b8-4da0-88bc-dab68d40a2ac",
+            "dataName": "0757c226-74b8-4da0-88bc-dab68d40a2ac.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/4a08d624-4eb3-4a41-a4b3-a410edb8c111-coco-type"
+        },
+        {
+            "dataItemId": "594fae77-75ac-4a52-bc08-5e9cf90960e7",
+            "dataName": "594fae77-75ac-4a52-bc08-5e9cf90960e7.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/4d459b8f-40b1-4c1a-a580-58dba5b589a4-coco-type"
+        },
+        {
+            "dataItemId": "f1cb28d6-1c55-49a2-9c0c-f375c12c623b",
+            "dataName": "f1cb28d6-1c55-49a2-9c0c-f375c12c623b.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/5212ea10-33c6-418e-b268-5960c6ad290b-coco-type"
+        },
+        {
+            "dataItemId": "3b9b06de-0731-4481-9e43-429c391e2399",
+            "dataName": "3b9b06de-0731-4481-9e43-429c391e2399.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/57855a95-c628-4b59-9f2e-ade93426c181-coco-type"
+        },
+        {
+            "dataItemId": "02606ea8-32d9-454c-9a94-874ebf2f523a",
+            "dataName": "02606ea8-32d9-454c-9a94-874ebf2f523a.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/58bff3df-68f4-49b4-969a-b180b90aabda-coco-type"
+        },
+        {
+            "dataItemId": "b7d6c9b9-9eac-48aa-81c7-ce5c080c8775",
+            "dataName": "b7d6c9b9-9eac-48aa-81c7-ce5c080c8775.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/5ac64b58-5ec9-4c20-beff-7ffb4b59a562-coco-type"
+        },
+        {
+            "dataItemId": "bbf5b0f7-d1e3-4ec2-91d6-190a02598524",
+            "dataName": "bbf5b0f7-d1e3-4ec2-91d6-190a02598524.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/5d93a0be-f014-45a7-8779-11e7c92cd35b-coco-type"
+        },
+        {
+            "dataItemId": "f3bc8a18-864d-4977-8cf1-74045fd0dc21",
+            "dataName": "f3bc8a18-864d-4977-8cf1-74045fd0dc21.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/6536dd0f-4489-4e03-ab38-86cb3b7bb025-coco-type"
+        },
+        {
+            "dataItemId": "426a3860-edcf-4152-a4b5-6485045111a6",
+            "dataName": "426a3860-edcf-4152-a4b5-6485045111a6.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/829d82a9-1bb2-430b-b137-f42cf147dd66-coco-type"
+        },
+        {
+            "dataItemId": "88b89878-f5f0-4091-99fc-d0cdfe511c55",
+            "dataName": "88b89878-f5f0-4091-99fc-d0cdfe511c55.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/84af515b-b4d6-446b-9f81-16b9c7ad6232-coco-type"
+        },
+        {
+            "dataItemId": "b2ea0229-4d55-4795-a59f-6db712f1f57a",
+            "dataName": "b2ea0229-4d55-4795-a59f-6db712f1f57a.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/874efd1d-734e-4bd2-b4b9-0f441331d71d-coco-type"
+        },
+        {
+            "dataItemId": "5385aeca-1a3f-406b-947f-44e6420d48bc",
+            "dataName": "5385aeca-1a3f-406b-947f-44e6420d48bc.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/888b6d43-8d0b-41b9-90d8-28f3e56c42b8-coco-type"
+        },
+        {
+            "dataItemId": "0d44b893-bbea-456f-b0e1-94bfbfe9ff1a",
+            "dataName": "0d44b893-bbea-456f-b0e1-94bfbfe9ff1a.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/89ec58d3-a6e9-4a7e-b284-90852910cba8-coco-type"
+        },
+        {
+            "dataItemId": "41692d0d-26bd-4cc2-80d9-331ba4af75f0",
+            "dataName": "41692d0d-26bd-4cc2-80d9-331ba4af75f0.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/8df3bddb-dc1d-47a0-a132-0e16990d1ec2-coco-type"
+        },
+        {
+            "dataItemId": "f3cb0890-c8f5-4976-96d0-eb2790ceea88",
+            "dataName": "f3cb0890-c8f5-4976-96d0-eb2790ceea88.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/9285a770-70a0-4dc6-8dc7-0401fcbb4769-coco-type"
+        },
+        {
+            "dataItemId": "28726b54-e3f6-4e58-951f-9e3e905cd823",
+            "dataName": "28726b54-e3f6-4e58-951f-9e3e905cd823.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/9945f34c-dbf6-4200-af58-22982b2faf01-coco-type"
+        },
+        {
+            "dataItemId": "a7aca9d2-59d3-40d8-bea8-c7942d50914c",
+            "dataName": "a7aca9d2-59d3-40d8-bea8-c7942d50914c.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/9a33ccb0-255c-42f3-a23e-a9e9c1d2fc46-coco-type"
+        },
+        {
+            "dataItemId": "e1fcaa2e-a9f0-4a05-91a4-60b24591901e",
+            "dataName": "e1fcaa2e-a9f0-4a05-91a4-60b24591901e.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/9c12fdf8-12cd-468d-9f9d-9069f82cf8e0-coco-type"
+        },
+        {
+            "dataItemId": "3a90cbda-2ea1-41bc-957c-f2e0c9204d9e",
+            "dataName": "3a90cbda-2ea1-41bc-957c-f2e0c9204d9e.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/9f854b74-951a-44ad-991b-d390f2901c23-coco-type"
+        },
+        {
+            "dataItemId": "65a9b2f1-8724-46f3-a90a-7d0a72093117",
+            "dataName": "65a9b2f1-8724-46f3-a90a-7d0a72093117.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/a168b903-de12-49e1-a142-791cf5e841c7-coco-type"
+        },
+        {
+            "dataItemId": "b3553a3a-64c3-42ee-b865-dc2314b44fda",
+            "dataName": "b3553a3a-64c3-42ee-b865-dc2314b44fda.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/a65741d1-2593-4b30-b7af-550b79597e9b-coco-type"
+        },
+        {
+            "dataItemId": "3aea1325-6b9c-47af-a96a-2336d24bbeb5",
+            "dataName": "3aea1325-6b9c-47af-a96a-2336d24bbeb5.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/ae795737-338d-46bd-bb68-f07fb02fa203-coco-type"
+        },
+        {
+            "dataItemId": "f0f02ca1-408a-4519-bf5b-4081912f2783",
+            "dataName": "f0f02ca1-408a-4519-bf5b-4081912f2783.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/b6b8f853-0b63-434b-b845-a5e60014d612-coco-type"
+        },
+        {
+            "dataItemId": "51446810-5129-442f-9876-1e5856e801f0",
+            "dataName": "51446810-5129-442f-9876-1e5856e801f0.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/bb7f5e65-1120-448a-a5c4-80f845aec978-coco-type"
+        },
+        {
+            "dataItemId": "73405554-8de9-4e52-a88d-fe48c0ea637c",
+            "dataName": "73405554-8de9-4e52-a88d-fe48c0ea637c.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/bea4a96d-696e-4408-aa98-8dd287a09dd6-coco-type"
+        },
+        {
+            "dataItemId": "ea6607b7-dc5a-43e5-abfa-d8514e48616a",
+            "dataName": "ea6607b7-dc5a-43e5-abfa-d8514e48616a.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/c0f614f0-2df1-476e-8474-99eca7ebd574-coco-type"
+        },
+        {
+            "dataItemId": "bf3a94fe-c9af-44d8-8a4c-b00e893d2a25",
+            "dataName": "bf3a94fe-c9af-44d8-8a4c-b00e893d2a25.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/c63566e9-9542-48fa-aff1-12fd0a20580d-coco-type"
+        },
+        {
+            "dataItemId": "a8e106ec-56ca-4e6b-90c8-fa0f51ff20db",
+            "dataName": "a8e106ec-56ca-4e6b-90c8-fa0f51ff20db.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/d490c4b6-83cd-43a1-a72e-2aa26ed4606d-coco-type"
+        },
+        {
+            "dataItemId": "6d0f3704-2806-4110-be37-db0c49e3561a",
+            "dataName": "6d0f3704-2806-4110-be37-db0c49e3561a.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/d49ef602-06a2-410b-bc6e-d4e5eecb8219-coco-type"
+        },
+        {
+            "dataItemId": "cd4d8ea9-4c1e-4b59-991b-1ea9bf519568",
+            "dataName": "cd4d8ea9-4c1e-4b59-991b-1ea9bf519568.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/df46b85d-7b1b-4f88-a0c6-a3d0197710f7-coco-type"
+        },
+        {
+            "dataItemId": "877ec272-c1a3-461b-8762-9db0cf7c0b8d",
+            "dataName": "877ec272-c1a3-461b-8762-9db0cf7c0b8d.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/eaa20381-964e-4215-9035-6221defabb8a-coco-type"
+        },
+        {
+            "dataItemId": "7765b5bf-1dd4-493d-beef-3a570bd933ce",
+            "dataName": "7765b5bf-1dd4-493d-beef-3a570bd933ce.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/f0bd7f10-e6c1-4af1-9a85-53435afdb254-coco-type"
+        },
+        {
+            "dataItemId": "2b1502a8-d61f-4f6b-ba4a-16826c96794e",
+            "dataName": "2b1502a8-d61f-4f6b-ba4a-16826c96794e.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/f95324c6-efac-4360-9417-8036610d40cb-coco-type"
+        },
+        {
+            "dataItemId": "96793335-e38b-4712-b48f-6201ea0bab58",
+            "dataName": "96793335-e38b-4712-b48f-6201ea0bab58.json",
+            "objectKey": "annotation/870af687-29e6-4c41-b796-d680e657675d2023-03-20-14:39:43/ff81a48a-c9f8-4639-afc1-4e6277bff5c5-coco-type"
+        }
+    ]
+}

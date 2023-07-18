@@ -1,0 +1,32 @@
+# torch
+torch
+torchvision
+
+# cv
+opencv-python
+
+# log
+loguru
+
+# s3
+boto3
+awscli
+
+# aifs
+aifs-client-py >= 1.0.10
+
+# utils
+tenacity
+
+# config
+configparser
+
+# cli
+click
+
+flatbuffers
+
+httpretty
+psutil
+tqdm
+setuptools

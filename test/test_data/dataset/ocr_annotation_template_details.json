@@ -1,0 +1,12 @@
+{
+    "id": "5537b392-8ca3-40e1-b549-f79ccf252609",
+    "name": "ocr-template",
+    "createAt": 1677557655758,
+    "updateAt": 1677557655758,
+    "type": "ocr",
+    "wordList": [
+        "'",
+        "疗",
+        "绚"
+    ]
+}
