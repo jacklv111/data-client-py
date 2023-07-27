@@ -13,7 +13,7 @@ boto3
 awscli
 
 # aifs
-aifs-client-py >= 1.0.10
+aifs-client-py
 
 # utils
 tenacity
